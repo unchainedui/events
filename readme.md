@@ -2,6 +2,9 @@
 
 ## Events
 
+[![NPM Version](https://img.shields.io/npm/v/uc-events.svg?style=flat-square)](https://www.npmjs.com/package/uc-events)
+[![NPM Downloads](https://img.shields.io/npm/dt/uc-events.svg?style=flat-square)](https://www.npmjs.com/package/uc-events)
+
 Simple events bus mixin
 
 ### Usage
